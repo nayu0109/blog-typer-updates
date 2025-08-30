@@ -2,7 +2,7 @@
   "latest_version": "1.1.0",
   "min_supported_version": "1.2.0",
   "mandatory": true,
-  "download_url": "https://github.com/<아이디>/<앱-배포-repo>/releases/latest",
+  "download_url": "https://open.kakao.com/o/g4Qr0azg",
   "message": "새 버전에서 안정성이 크게 개선되었습니다.",
   "changelog": [
     "입력 지연 안정화",
