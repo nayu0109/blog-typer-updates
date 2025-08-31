@@ -1,13 +1,19 @@
 {
-"latest_version": "1.0.0",
-"min_supported_version": "1.0.0",
-"mandatory": true,
-"download_url": "https://open.kakao.com/o/g4Qr0azg",
-"dismissible_notice": {
-"enabled": true,
-"title": "노복붙을 이용해 주셔서 감사합니다!",
-"body": "지속적인 업데이트 정보를 받기 위해 단톡방에 입장해 주세요.",
-"link_text": "단톡방으로 이동할까요?",
-"link_url": "https://open.kakao.com/o/g4Qr0azg"
-}
+  "latest_version": "1.0.0",
+  "min_supported_version": "1.0.0",
+  "mandatory": true,
+  "download_url": "https://open.kakao.com/o/g4Qr0azg",
+  "notice": {
+    "enabled": true,
+    "id": "톡방 입장 안내",
+    "title": "노복붙을 이용해 주셔서 감사합니다",
+    "body": "지속적인 업데이트 정보를 받기 위해 단톡방에 입장해 주세요.",
+    "level": "info",
+    "link_text": "단톡방으",
+    "link_url": "https://open.kakao.com/o/g4Qr0azg",
+    "repeat": "always",
+    "until": "9999-12-31",
+    "button_text": "확인",
+    "block": false
+  }
 }
