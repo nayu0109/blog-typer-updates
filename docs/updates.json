@@ -4,7 +4,7 @@
   "mandatory": true,
   "download_url": "https://open.kakao.com/o/g4Qr0azg",
   "notice": {
-    "enabled": true,
+    "enabled": false,
     "id": "톡방 입장 안내",
     "title": "노복붙을 이용해 주셔서 감사합니다",
     "body": "지속적인 업데이트 정보를 받기 위해 단톡방에 입장해 주세요.",
