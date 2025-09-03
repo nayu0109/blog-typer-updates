@@ -20,7 +20,7 @@
     "enabled": true,
     "gif_url": "https://nayu0109.github.io/blog-typer-updates/banner1.gif",
     "click_url": "https://maily.so/nayu7715",
-    "size": "large",
+    "size": "medium",
     "cache_bust": true
   }
 }
