@@ -10,7 +10,7 @@
     "body": "지속적인 업데이트 정보를 받기 위해 뉴스레터를 구독해 주세요.",
     "level": "info",
     "link_text": "뉴스레터 사이트",
-    "link_url": "https://maily.so/nayu7715",
+    "link_url": "https://m.site.naver.com/1QeIk",
     "repeat": "always",
     "until": "2025-09-07",
     "button_text": "확인",
@@ -19,7 +19,7 @@
   "banner": {
     "enabled": true,
     "gif_url": "https://nayu0109.github.io/blog-typer-updates/banner1.gif",
-    "click_url": "https://maily.so/nayu7715",
+    "click_url": "https://m.site.naver.com/1QeIk",
     "size": "small",
     "cache_bust": true
   }
